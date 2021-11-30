@@ -22,7 +22,8 @@ By default commits and tags are marked "Verified" if they are signed with a GPG 
 
 However, you can give other users increased confidence in the identity attributed to your commits and tags by enabling vigilant mode in your {% data variables.product.prodname_dotcom %} settings. With vigilant mode enabled, all of your commits and tags are marked with one of three verification statuses.
 
-![Signature verification statuses](/assets/images/help/commits/signature-verification-statuses.png)
+
+
 
 {% data reusables.identity-and-permissions.vigilant-mode-verification-statuses %}
 
